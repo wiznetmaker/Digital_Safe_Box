@@ -2,6 +2,8 @@
 Part 2:
 ![image](https://github.com/wiznetmaker/Digital_Safe_Box/blob/a21fe5926473a39332a4692297d1ba19c479a687/SAFEBOX2.jpg)
 
+https://maker.wiznet.io/gavinchang/projects/digital-safe-box-rp2040-w5100s-fingerprint-part-2-finished/
+
 https://www.hackster.io/gavinchiong/digital-safe-box-rp2040-w5100s-fingerprint-part2-21e4bb
 
 
